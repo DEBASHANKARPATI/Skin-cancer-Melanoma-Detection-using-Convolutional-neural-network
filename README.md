@@ -37,7 +37,7 @@ Give credit here.
 - I have used the answer from stackoverflow to see the effective palcement of dropout layer  in model architecture  link -: https://stackoverflow.com/questions/47701544/does-dropout-layer-go-before-or-after-dense-layer-in-tensorflow#:~:text=Informally%20speaking%2C%20common%20wisdom%20says%20to%20apply%20dropout,the%20prev_layer%20is%20in%20your%20second%20code%20snippet. 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by DEBASHANKARPATI - feel free to contact me!
 
 
 <!-- Optional -->
