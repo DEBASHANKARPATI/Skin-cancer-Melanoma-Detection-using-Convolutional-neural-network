@@ -1,5 +1,4 @@
-# Project Name
-Skin cancer (Melanoma) Detection using Convolutional neural network
+# Skin cancer (Melanoma) Detection using Convolutional neural network
 
 
 ## Table of Contents
