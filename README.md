@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+Skin cancer (Melanoma) Detection using Convolutional neural network
 
 
 ## Table of Contents
@@ -11,35 +11,30 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- This is a image classification project where we build a convolutional neural network model , which classifies the images of different kinds of skin cancers to automate the task of an oncologist.
+- The data set is provided by  International Skin Imaging Collaboration (ISIC) , i have attached a link in the Datastlink.txt file in the project.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
+- This is most likely a learning project which helps to grasp the concept of CNN and how to deal with various problems while building the model for image classification.
+- Here i learned how to improve model performance using dropout layers and class balancing techniques where we can augment the dataset .
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Tenserflow
+- Tensorflow-nightly
+- Keras
+- Python
+- pandas
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- I have refferenced official code base for image classification from tensor flow link-: https://www.tensorflow.org/tutorials/images/classification
+- I have used the answer from stackoverflow to see the effective palcement of dropout layer  in model architecture  link -: https://stackoverflow.com/questions/47701544/does-dropout-layer-go-before-or-after-dense-layer-in-tensorflow#:~:text=Informally%20speaking%2C%20common%20wisdom%20says%20to%20apply%20dropout,the%20prev_layer%20is%20in%20your%20second%20code%20snippet. 
 
 ## Contact
 Created by [@githubusername] - feel free to contact me!
